@@ -1,1 +1,2 @@
 # Uzivatelsky-software
+Komunikační software
